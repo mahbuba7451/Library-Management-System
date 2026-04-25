@@ -1,11 +1,10 @@
-#  Library Management System
+# Library Management System
 
-This is a simple Library Management System built using Python. 
-It helps manage books, users, and borrowing operations.
+This is a Python-based Library Management System that helps manage books, users, and borrowing operations efficiently. It reduces manual work and keeps records organized.
 
 ---
 
-##  Features
+## Features
 
 - Add new books
 - Search books
@@ -15,15 +14,30 @@ It helps manage books, users, and borrowing operations.
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 - Python
 - Tkinter (GUI)
-- SQLite / File Handling
+- File Handling / Database
 
 ---
 
-##  Run the Project
+## Project Structure
 
-```bash
+- main.py
+- gui.py
+- database.py
+
+---
+
+## Run the Project
+
 python main.py
+
+---
+
+## Author
+
+Mahbuba
+
+This project was developed as part of academic coursework.
